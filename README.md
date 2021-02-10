@@ -19,6 +19,8 @@
 
 ## Proyectos personales
 
+[mis trabajos](trabajos.md)
+
 ## Aficiones
 - soy un faricletista
 - cantar opera
