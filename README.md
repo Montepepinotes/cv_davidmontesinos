@@ -25,3 +25,5 @@
 - soy un faricletista
 - cantar opera
 - bailar valet desnudo
+- [mis videos](videos.md)
+- [mis fotos](fotos.md)
